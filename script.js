@@ -1,4 +1,4 @@
-// Configuración de particles.js
+/* Configuración de particles.js */
 particlesJS('particles-js', { // Función principal y el ID
     particles: { // Configuración de particulas
         number: { // cantidad
@@ -30,7 +30,7 @@ particlesJS('particles-js', { // Función principal y el ID
         line_linked: { // Conexiones
             enable: true,
             distance: 150,
-            color: '#0000ff',
+            color: '#0000FF',
             opacity: 0.3,
             width: 1
         },
